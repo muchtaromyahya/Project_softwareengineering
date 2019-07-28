@@ -41,7 +41,7 @@ agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/so
 Contributors
 *********
 
--  `Muchtarom Yahya <https://github.com/muchtaromyahya>`_ 
+-  `Muchtarom Yahya <https://github.com/muchtaromyahya>`_ As front-end
 -  `Sulthan Kurniawan <https://github.com/sulthankurniawan>`_ As back-end
 -  `El Ghifari <https://github.com/El-Ghiffari>`_  As Back-end
 -  `Imam Athaya Rakha <>`_ AS UI IX
