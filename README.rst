@@ -52,7 +52,7 @@ Contributors
 ***************
 Acknowledgement
 ***************
-Website ini dibuat untuk memenuhi tugas besar mata kuliah WEB PROGRAMMING Telkom University
+Website ini dibuat untuk memenuhi tugas project lab RPLGDC Laboratory Telkom University
 
 ***************
 ERD
