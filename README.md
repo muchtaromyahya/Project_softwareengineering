@@ -1,4 +1,4 @@
-# Project_softwareengineering
+# WEBSITE 4 HIRE
 ###################
 4 HIRE
 ###################
@@ -37,3 +37,29 @@ License
 
 Please see the `license
 agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+*********
+Contributors
+*********
+
+-  `Muchtarom Yahya <https://github.com/muchtaromyahya>`_ As front-end
+-  `Sulthan Kurniawan <https://github.com/sulthankurniawan>`_ As back-end
+-  `El Ghifari <https://github.com/El-Ghiffari>`_  As Back-end
+-  `Imam Athaya Rakha <>`_ AS UI IX
+
+
+
+
+***************
+Acknowledgement
+***************
+Website ini dibuat untuk memenuhi tugas besar mata kuliah WEB PROGRAMMING Telkom University
+
+***************
+ERD
+***************
+(https://user-images.githubusercontent.com/35554752/56590114-b3966a80-6610-11e9-9d1a-ce39de2f7b30.jpg)
+
+***************
+USECASE DIAGRAM
+***************
+(https://user-images.githubusercontent.com/35554752/56590009-7b8f2780-6610-11e9-95dd-2426ab0a5d17.jpg)
