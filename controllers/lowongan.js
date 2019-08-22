@@ -51,7 +51,7 @@ app.post('/tambah-lowongan', urlencodedParser, function(req, res){
         if (err) throw err
         res.json(data)
     })
-    res.render('header')
+    res.render('home')
 })
 
 
@@ -75,7 +75,7 @@ app.post('/edit-lowongan', urlencodedParser, function(req, res){
         if (err) throw err
         res.json(data)
     })
-    // render home page
+    res.render('home')
 })
 
 // memberikan tampilan daftar kepada user mengenai status pendaftaran ???

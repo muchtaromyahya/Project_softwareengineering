@@ -39,23 +39,25 @@ app.get('/header', function(req, res){
     res.render('header')
 })
 // memasukkan data registrasi pemagang ke database
-app.post('/header', urlencodedParser, function(req, res){
+app.post('/home', urlencodedParser, function(req, res){
     console.log(req.body)
     var newAkun = Akun(req.body).save(function(err, data){
         if (err) throw err
         res.json(data)
     })
+    res.render('home')
 })
 // memasukkan data registrasi perusahaan ke database
-app.post("/header", urlencodedParser, function(req, res){
+app.post("/home", urlencodedParser, function(req, res){
     var newAkunMitra = AkunMitra(req.body).save(function(err, data){
         if (err) throw err
         res.json(data)
     })
+    res.render('home')
 })
 
 // melakukan login untuk pemagang
-app.post('/header', function(req, res){
+app.post('/', function(req, res){
     var uname = req.body.uname
     var psw1 = req.body
 

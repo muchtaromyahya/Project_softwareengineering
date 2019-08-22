@@ -26,7 +26,7 @@ akunController(app)
 
 // display home
 app.get('/', function(req, res){
-    res.render('home')
+    res.render('home2')
 })
 app.get('/home', function(req, res){
     res.render('home')
